@@ -1,0 +1,3 @@
+= Projeto Final Arquitetura - CPU com Pipeline =
+
+Este projeto tem como objetivo projetar e implementar em VHDL uma CPU, que realize as instruções ADD, SUB, ADDI, SUBI, LW, SW, AND, ANDI, OR, ORI, BEQ, J, e JR, de formatos tipo R, I e J, utilizando pipeline que é o processo pelo qual uma instrução de processamento é subdivida em etapas, uma vez que cada uma destas etapas é executada por uma porção especializada da CPU, podendo colocar mais de uma instrução em execução simultânea. Isto traz um uso mais racional da capacidade computacional com ganho substancial de velocidade.
